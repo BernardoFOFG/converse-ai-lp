@@ -105,7 +105,7 @@ export const PLANS_AVALIABLE = [
 ];
 
 export const LINK_CTA_WHATSAPP =
-	'https://wa.me/5581982128625?text=Gostaria+de+saber+mais+sobre+a+ConverseIA+Direito';
+	'https://wa.me/5581991656423?text=Gostaria+de+saber+mais+sobre+a+ConverseIA+Direito';
 
 export const LINK_VIDEO =
 	'https://res.cloudinary.com/djlmnni49/video/upload/v1732894445/dsqyig8giefutkd41ior.mp4';
